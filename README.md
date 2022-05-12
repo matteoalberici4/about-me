@@ -36,6 +36,7 @@ I am a Computer Science Bachelor student @ <a href="https://www.usi.ch"> USI - U
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=jetbrains&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)
+![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/C/C++-informational?style=flat&logo=c&logoColor=white&color=green)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=green)
