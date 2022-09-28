@@ -1,8 +1,8 @@
 # Matteo Alberici
 
-I am a Computer Science Bachelor student @ <a href="https://www.usi.ch"> USI - Università della Svizzera Italiana</a>.
+I am an italian student graduated in Computer Science @ <a href="https://www.usi.ch"> USI - Università della Svizzera Italiana</a>, now studying Cybersecurity @ <a href="https://www.unimi.it"> Unimi - Università degli studi di Milano</a>.
 
-## Completed Courses
+## Computer Science Bachelor Courses
 ![](https://img.shields.io/badge/Algorithms%20and%20Data%20Structure-1st-orange)
 ![](https://img.shields.io/badge/Computer%20Architecture-1st-orange)
 ![](https://img.shields.io/badge/Calculus-1st-orange)
@@ -26,8 +26,12 @@ I am a Computer Science Bachelor student @ <a href="https://www.usi.ch"> USI - U
 ![](https://img.shields.io/badge/Artificial%20Intelligence-3rd-blue)
 ![](https://img.shields.io/badge/Computer%20Graphics-3rd-blue)
 ![](https://img.shields.io/badge/Information%20Retrieval-3rd-blue)
+![](https://img.shields.io/badge/Machine%20Learning%205-3rd-blue)
 ![](https://img.shields.io/badge/Numerical%20Computing-3rd-blue)
+![](https://img.shields.io/badge/Quantum%20Computing%205-3rd-blue)
 ![](https://img.shields.io/badge/Software%20Atelier%205-3rd-blue)
+![](https://img.shields.io/badge/Theory%20of%20Computation%205-3rd-blue)
+
 
 ## Skills
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=purple)
