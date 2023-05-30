@@ -33,6 +33,12 @@ I am an italian student graduated in Computer Science @ <a href="https://www.usi
 ![](https://img.shields.io/badge/Theory%20of%20Computation%205-3rd-blue)
 
 
+## Cybersecurity Master Courses
+![](https://img.shields.io/badge/Biometric%20Systems-1st-orange)
+![](https://img.shields.io/badge/Privacy%20and%20Data%20Protection-1st-orange)
+![](https://img.shields.io/badge/Risk%20Management-1st-orange)
+
+
 ## Skills
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=purple)
