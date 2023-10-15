@@ -1,6 +1,6 @@
 # Matteo Alberici
 
-I am an Italian student graduated in Computer Science @ <a href="https://www.usi.ch"> USI - Università della Svizzera Italiana</a>, now a Cybersecurity student @ <a href="https://www.unimi.it"> Unimi - Università degli studi di Milano</a>.
+I am an Italian Computer Science graduate @ <a href="https://www.usi.ch"> USI - Università della Svizzera Italiana</a>, now a Cybersecurity student @ <a href="https://www.unimi.it"> Unimi - Università degli studi di Milano</a>.
 
 ## Computer Science Bachelor Courses
 ![](https://img.shields.io/badge/Algorithms%20and%20Data%20Structure-1st-orange)
